@@ -1,0 +1,1 @@
+﻿cp -Path \\w2008-ad435\deploy\zabbix\* c:\ -Force -Recurse

@@ -1,0 +1,1 @@
+powershell ./skanowanie-do-pliku.ps1
